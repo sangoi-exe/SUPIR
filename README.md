@@ -1,3 +1,16 @@
+# SUPIR Fork
+
+> This fork updates, optimizes, and enhances some aspects of the SUPIR inference code.
+
+## Key Updates
+
+- **Requirements**: Updated to run on Python 3.12.10  
+- **Backend**: Switched from **xformers** to **SDPA**  
+- **UI**: Various interface improvements  
+- **API Integration**: Replaced LLaVa with optional OpenAI API support  
+
+---
+
 ## (CVPR2024) Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild
 
 > [[Paper](https://arxiv.org/abs/2401.13627)] &emsp; [[Project Page](http://supir.xpixel.group/)] &emsp; [[Online App]](https://supir.suppixel.ai/home) <br>
